@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**Henry-py3/Henry-py3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im Henry aka, Cray, I am the head developer at [ARIOR](https://discord.gg/5A2ETjQWfZ) game development, & Discord Dev for [MonarchVisuals](https://discord.gg/k4EsFpz4T8).
 
-Here are some ideas to get you started:
+I have expirience in Discord Development, Minecraft Moding, Game Deving, & scripting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have not shown my work before on GitHub and I am exited to.
+
+---
+
+### Work
+
+You can contact me through my [Discord](https://discord.com/users/1382863062591078400). I am happy to do freelance.
+
+I can code in C#, Java, Python, C, & Html. Learning C++
+
+Credit for the work that you recive goes to [Rayle](https://github.com/riley010510) and myself.
+
+---
+
+### About Me
+
+🐶 I love dogs
+
+🏞️ I love Hiking
+
+💻 I love Coding
+
+📸 I love Photography
+
+📖 I love to Read
+
+🏎️ I love Motor sport
+- 🧍 Fornado
